@@ -1,0 +1,34 @@
+{
+  "name": "create-next-app-default",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@popperjs/core": "^2.10.2",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0-beta3",
+    "font-awesome": "^4.7.0",
+    "mdbreact": "^5.1.0",
+    "next": "11.1.0",
+    "prop-types": "^15.7.2",
+    "react": "17.0.2",
+    "react-bootstrap": "^1.6.4",
+    "react-dom": "17.0.2",
+    "react-modal": "^3.14.3",
+    "styled-components": "^5.3.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.50.0"
+  }
+}
